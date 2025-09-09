@@ -16,6 +16,7 @@ downloaded Go2,  Go1, spot robot
 for RL training had to install IsaacLab
 cloned it from git repository
 there is an executable file inside for handling the installation of RL frameworks
+
 ==============
 
 I reinstalled a new conda version on my laptop
